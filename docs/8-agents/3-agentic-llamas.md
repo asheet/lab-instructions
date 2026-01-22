@@ -28,6 +28,9 @@ This requires the agent to reason about when to search vs. when to schedule - pe
 
 ## Enable MCP in LlamaStack
 
+<details>
+<summary>We configured this already so we can skip</summary>
+
 Before we start, we need to enable MCP support in your Llama Stack instance:
 
 1. Go to **OpenShift Console** → **Helm** → **Releases**
@@ -43,6 +46,7 @@ Before we start, we need to enable MCP support in your Llama Stack instance:
     ![enable-mcp](images/enable-mcp.png)
 
 This enables our MCP Calendar tool that LangGraph will use.
+</details>
 
 ## Let's Build It!
 
