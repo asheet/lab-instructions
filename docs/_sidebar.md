@@ -1,63 +1,64 @@
 * [Intro](/)
-* [The AI Orientation](1-the-ai-orientation/README.md)
-  * [🌎 GenAI Landscape](1-the-ai-orientation/0-genai-landscape.md)
-  * [🧑‍🎓 Understanding LLMs](1-the-ai-orientation/1-llm-overview.md)
-    * [🧱 Fundamentals](1-the-ai-orientation/1a-llm-fundamentals.md)
-    * [💭 Usage & Control](1-the-ai-orientation/1b-llm-usage-control.md)
-    * [🧠 Memory & Processing](1-the-ai-orientation/1c-llm-memory-processing.md)
-    * [📊 Performance](1-the-ai-orientation/1d-llm-performance.md)
-* [Linguistics](2-linguistics/README.md)
-  * [🎸 Prompt Engineering](2-linguistics/1-prompt-engineering.md)
-  * [🌳 Canopy](2-linguistics/2-canopy-ai.md)
+* ~~[The AI Orientation](1-the-ai-orientation/README.md)~~
+  * ~~[🌎 GenAI Landscape](1-the-ai-orientation/0-genai-landscape.md)~~
+  * ~~[🧑‍🎓 Understanding LLMs](1-the-ai-orientation/1-llm-overview.md)~~
+    * ~~[🧱 Fundamentals](1-the-ai-orientation/1a-llm-fundamentals.md)~~
+    * ~~[💭 Usage & Control](1-the-ai-orientation/1b-llm-usage-control.md)~~
+    * ~~[🧠 Memory & Processing](1-the-ai-orientation/1c-llm-memory-processing.md)~~
+    * ~~[📊 Performance](1-the-ai-orientation/1d-llm-performance.md)~~
+* ~~[Linguistics](2-linguistics/README.md)~~
+  * ~~[🎸 Prompt Engineering](2-linguistics/1-prompt-engineering.md)~~
+  * ~~[🌳 Canopy](2-linguistics/2-canopy-ai.md)~~
 * [Ready to Scale 101](3-ready-to-scale-101/README.md)
   * [🦙 Llama Stack](3-ready-to-scale-101/1-llama-stack.md)
   * [✨ Into the Workspace](3-ready-to-scale-101/2-into-the-workspace.md)
   * [🎒 Intro to Backend](3-ready-to-scale-101/3-intro-to-backend.md)
-  * [🐙 GitOps](3-ready-to-scale-101/4-gitops.md)
-  * [🌳 Deploy Canopy](3-ready-to-scale-101/5-deploy-canopy.md)
-* [Ready to Scale 201](4-ready-to-scale-201/README.md)
-  * [📝 Prompt Versioning](4-ready-to-scale-201/1-prompt-versioning.md)
-  * [💫 GenAI Application Evaluation](4-ready-to-scale-201/2-evaluate-genai-applications.md)
-  * [🏃 Automate It with Kubeflow!](4-ready-to-scale-201/3-kubeflow-pipelines.md)
-  * [🏃 Pipeline of Pipelines!](4-ready-to-scale-201/4-automate-with-tekton.md)
-* [Grounded AI](5-grounded-ai/README.md)
-  * [🧠 Understanding RAG](5-grounded-ai/1-rag.md)
-  * [🐣 Doc Intelligence with Docling](5-grounded-ai/2-docling.md)  
-  * [📊 Vector Stores & Milvus](5-grounded-ai/3-vector-stores.md)
-  * [⚙️ RAG Pipelines](5-grounded-ai/4-rag-pipelines.md)
-  * [🌳 Canopy with RAG](5-grounded-ai/5-rag-canopyUI.md)
-  * [🥼 RAG Evals](5-grounded-ai/6-eval-rag.md)
-  * [🐉 Pipeline of Pipelines!](5-grounded-ai/7-rag-tekton.md)
-* [The AI Watcher](6-observability/README.md)
-  * [👁️ Enable Monitoring](6-observability/1-enable-monitoring.md)
-  * [📊 Metrics](6-observability/2-metrics.md)
-  * [📝 Logging](6-observability/3-logging.md)
-  * [🔍 Tracing](6-observability/4-tracing.md) 
-* [The Honor Code](7-honor-code/README.md)
-  * [🎓 Guardrails](7-honor-code/1-guardrails.md)
-  * [🔦 Guardrails Orchestrator](7-honor-code/2-guardrails_orchestrator.md)
-  * [🦔 Automate Guardrails Checks](7-honor-code/3-automate-checks.md)
-  * [💂‍♂️ Canopy with Guardrails](7-honor-code/4-canopy-with-guardrails.md)
+  * ~~[🐙 GitOps](3-ready-to-scale-101/4-gitops.md)~~
+  * ~~[🌳 Deploy Canopy](3-ready-to-scale-101/5-deploy-canopy.md)~~
+* ~~[Ready to Scale 201](4-ready-to-scale-201/README.md)~~
+  * ~~[📝 Prompt Versioning](4-ready-to-scale-201/1-prompt-versioning.md)~~
+  * ~~[💫 GenAI Application Evaluation](4-ready-to-scale-201/2-evaluate-genai-applications.md)~~
+  * ~~[🏃 Automate It with Kubeflow!](4-ready-to-scale-201/3-kubeflow-pipelines.md)~~
+  * ~~[🏃 Pipeline of Pipelines!](4-ready-to-scale-201/4-automate-with-tekton.md)~~
+* ~~[Grounded AI](5-grounded-ai/README.md)~~
+  * ~~[🧠 Understanding RAG](5-grounded-ai/1-rag.md)~~
+  * ~~[🐣 Doc Intelligence with Docling](5-grounded-ai/2-docling.md)~~  
+  * ~~[📊 Vector Stores & Milvus](5-grounded-ai/3-vector-stores.md)~~
+  * ~~[⚙️ RAG Pipelines](5-grounded-ai/4-rag-pipelines.md)~~
+  * ~~[🌳 Canopy with RAG](5-grounded-ai/5-rag-canopyUI.md)~~
+  * ~~[🥼 RAG Evals](5-grounded-ai/6-eval-rag.md)~~
+  * ~~[🐉 Pipeline of Pipelines!](5-grounded-ai/7-rag-tekton.md)~~
+* ~~[The AI Watcher](6-observability/README.md)~~
+  * ~~[👁️ Enable Monitoring](6-observability/1-enable-monitoring.md)~~
+  * ~~[📊 Metrics](6-observability/2-metrics.md)~~
+  * ~~[📝 Logging](6-observability/3-logging.md)~~
+  * ~~[🔍 Tracing](6-observability/4-tracing.md)~~
+* ~~[The Honor Code](7-honor-code/README.md)~~
+  * ~~[🎓 Guardrails](7-honor-code/1-guardrails.md)~~
+  * ~~[🔦 Guardrails Orchestrator](7-honor-code/2-guardrails_orchestrator.md)~~
+  * ~~[🦔 Automate Guardrails Checks](7-honor-code/3-automate-checks.md)~~
+  * ~~[💂‍♂️ Canopy with Guardrails](7-honor-code/4-canopy-with-guardrails.md)~~
 * [Agents](8-agents/README.md)
+  * [⚙️ Set Up Deployments](8-agents/0-set-up-deployment.md)
   * [🔨 What are Tools?](8-agents/1-what-are-tools.md)
   * [🤖 Agentic Workflows](8-agents/2-agentic-workflows.md)
   * [🦙 Agentic Llamas](8-agents/3-agentic-llamas.md)
   * [✅ Take Agents to Prod](8-agents/4-take-agents-to-prod.md)
-* [On-Prem Practicum](9-on-prem-practicum/README.md)
-  * [🏠 Deploy LLMs](9-on-prem-practicum/1-deploy-llms.md)
-  * [🔄 Update Canopy](9-on-prem-practicum/2-update-canopy.md)
-* [Model Optimization](10-model-optimization/README.md)
-  * [🧮 Understanding Quantization](10-model-optimization/1-foundations.md)
-  * [🔧 LLM-Compressor](10-model-optimization/2-llm-compressor.md)
-  * [⚡ Advanced Quantization](10-model-optimization/3-advanced-quantization.md)
-  * [📊 Evaluation](10-model-optimization/4-evaluation.md)
-  * [🔄 Update Canopy](10-model-optimization/5-update-canopy.md)
-* [Models as a Service](11-maas/README.md)
-  * [🧠 Understanding MaaS](11-maas/1-understanding-maas.md)
-  * [🚀 Deploy LiteMaaS](11-maas/2-deploy-litemaas.md)
-  * [🌳 Canopy Integration](11-maas/3-canopy-integration.md)
-  * [👤 User Experience](11-maas/4-user-experience.md)
-  * [👩‍💼 Admin Configuration](11-maas/5-admin-configuration.md)
-  * [📊 Usage & Observability](11-maas/6-usage-observability.md)
+* ~~[On-Prem Practicum](9-on-prem-practicum/README.md)~~
+  * ~~[🏠 Deploy LLMs](9-on-prem-practicum/1-deploy-llms.md)~~
+  * ~~[🔄 Update Canopy](9-on-prem-practicum/2-update-canopy.md)~~
+* ~~[Model Optimization](10-model-optimization/README.md)~~
+  * ~~[🧮 Understanding Quantization](10-model-optimization/1-foundations.md)~~
+  * ~~[🔧 LLM-Compressor](10-model-optimization/2-llm-compressor.md)~~
+  * ~~[⚡ Advanced Quantization](10-model-optimization/3-advanced-quantization.md)~~
+  * ~~[📊 Evaluation](10-model-optimization/4-evaluation.md)~~
+  * ~~[🔄 Update Canopy](10-model-optimization/5-update-canopy.md)~~
+* ~~[Models as a Service](11-maas/README.md)~~
+  * ~~[🧠 Understanding MaaS](11-maas/1-understanding-maas.md)~~
+  * ~~[🚀 Deploy LiteMaaS](11-maas/2-deploy-litemaas.md)~~
+  * ~~[🌳 Canopy Integration](11-maas/3-canopy-integration.md)~~
+  * ~~[👤 User Experience](11-maas/4-user-experience.md)~~
+  * ~~[👩‍💼 Admin Configuration](11-maas/5-admin-configuration.md)~~
+  * ~~[📊 Usage & Observability](11-maas/6-usage-observability.md)~~
 * [Campus Setup](15-campus-setup/README.md)
   * [🏫 Cluster Setup](15-campus-setup/1-cluster-setup.md)
