@@ -105,3 +105,7 @@ Paste the above snippet to configure the Canopy UI instance:
     If you don't have the Canopy open any longer, you can find it here: [https://canopy-ui-<USER_NAME>-test.<CLUSTER_DOMAIN>](https://canopy-ui-<USER_NAME>-test.<CLUSTER_DOMAIN>)
 
     ![ask-canopy.png](images/ask-canopy.png)
+
+
+We have now integrated llama-stack with Agents into our application.
+Congratulations, you have finished this workshop!
