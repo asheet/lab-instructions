@@ -64,7 +64,7 @@ When it is in running state, open it by clicking its name and use your credentia
 
    ![choose-python-env2.png](./images/choose-python-env2.png)
 
-   And now, feel free to experiment! Read and run the cells in the notebook! When you are done, come back here:)
+   And now, feel free to experiment! Read and run the cells in the notebook! When you are done, move onto the Agents workshop (on the left).
 
    ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjM0ZzFhNjRtemJ1NHNtOTkxYm52b3h3c3pnZ2VvdXBtNjBiZjZzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i68Balzk8Fewg/giphy.gif)
 
