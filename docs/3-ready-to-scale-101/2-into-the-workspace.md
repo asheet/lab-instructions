@@ -69,5 +69,3 @@ When it is in running state, open it by clicking its name and use your credentia
    ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjM0ZzFhNjRtemJ1NHNtOTkxYm52b3h3c3pnZ2VvdXBtNjBiZjZzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i68Balzk8Fewg/giphy.gif)
 
 
-Now that we understand why a backend is necessary to communicate with the Llama Stack, let’s implement those changes and introduce a backend into the architecture.
-

@@ -79,4 +79,5 @@ telemetry:
 We are updating `eval: enabled: true`, `mcp: enabled: true`, `rag: enabled: true`, and updating `rag: milvus: service: milvus`
 
 
-4. After Llama stack is up and running, we are ready to start the next section.
+4. After Milvus and Llama stack is up and running, we'll need to set up the Milvus database for using it with RAG.
+5. Open up the notebook called `5-rag/2-intro-to-RAG.ipynb` and follow the instructions.

@@ -12,7 +12,7 @@
 * [Ready to Scale 101](3-ready-to-scale-101/README.md)
   * [🦙 Llama Stack](3-ready-to-scale-101/1-llama-stack.md)
   * [✨ Into the Workspace](3-ready-to-scale-101/2-into-the-workspace.md)
-  * [🎒 Intro to Backend](3-ready-to-scale-101/3-intro-to-backend.md)
+  * ~~[🎒 Intro to Backend](3-ready-to-scale-101/3-intro-to-backend.md)~~
   * ~~[🐙 GitOps](3-ready-to-scale-101/4-gitops.md)~~
   * ~~[🌳 Deploy Canopy](3-ready-to-scale-101/5-deploy-canopy.md)~~
 * ~~[Ready to Scale 201](4-ready-to-scale-201/README.md)~~
