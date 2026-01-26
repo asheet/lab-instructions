@@ -1,4 +1,19 @@
 * [Intro](/)
+* [Quick Note about the workshop](0-workshop/0-quick-note.md)
+* [Ready to Scale 101](3-ready-to-scale-101/README.md)
+  * [🦙 Llama Stack](3-ready-to-scale-101/1-llama-stack.md)
+  * [✨ Into the Workspace](3-ready-to-scale-101/2-into-the-workspace_new.md)
+* [Agents](8-agents/README.md)
+  * [⚙️ Set Up Deployments](8-agents/0-set-up-deployment.md)
+  * [🔨 What are Tools?](8-agents/1-what-are-tools.md)
+  * [🤖 Agentic Workflows](8-agents/2-agentic-workflows.md)
+  * [🦙 Agentic Llamas](8-agents/3-agentic-llamas_new.md)
+  * [✅ Take Agents to Prod](8-agents/4-take-agents-to-prod_new.md)
+
+***
+AI501 full course
+
+* ~~[Intro](/)~~
 * ~~[The AI Orientation](1-the-ai-orientation/README.md)~~
   * ~~[🌎 GenAI Landscape](1-the-ai-orientation/0-genai-landscape.md)~~
   * ~~[🧑‍🎓 Understanding LLMs](1-the-ai-orientation/1-llm-overview.md)~~
@@ -9,9 +24,9 @@
 * ~~[Linguistics](2-linguistics/README.md)~~
   * ~~[🎸 Prompt Engineering](2-linguistics/1-prompt-engineering.md)~~
   * ~~[🌳 Canopy](2-linguistics/2-canopy-ai.md)~~
-* [Ready to Scale 101](3-ready-to-scale-101/README.md)
-  * [🦙 Llama Stack](3-ready-to-scale-101/1-llama-stack.md)
-  * [✨ Into the Workspace](3-ready-to-scale-101/2-into-the-workspace.md)
+* ~~[Ready to Scale 101](3-ready-to-scale-101/README.md)~~
+  * ~~[🦙 Llama Stack](3-ready-to-scale-101/1-llama-stack.md)~~
+  * ~~[✨ Into the Workspace](3-ready-to-scale-101/2-into-the-workspace.md)~~
   * ~~[🎒 Intro to Backend](3-ready-to-scale-101/3-intro-to-backend.md)~~
   * ~~[🐙 GitOps](3-ready-to-scale-101/4-gitops.md)~~
   * ~~[🌳 Deploy Canopy](3-ready-to-scale-101/5-deploy-canopy.md)~~
@@ -38,12 +53,11 @@
   * ~~[🔦 Guardrails Orchestrator](7-honor-code/2-guardrails_orchestrator.md)~~
   * ~~[🦔 Automate Guardrails Checks](7-honor-code/3-automate-checks.md)~~
   * ~~[💂‍♂️ Canopy with Guardrails](7-honor-code/4-canopy-with-guardrails.md)~~
-* [Agents](8-agents/README.md)
-  * [⚙️ Set Up Deployments](8-agents/0-set-up-deployment.md)
-  * [🔨 What are Tools?](8-agents/1-what-are-tools.md)
-  * [🤖 Agentic Workflows](8-agents/2-agentic-workflows.md)
-  * [🦙 Agentic Llamas](8-agents/3-agentic-llamas.md)
-  * [✅ Take Agents to Prod](8-agents/4-take-agents-to-prod.md)
+* ~~[Agents](8-agents/README.md)~~
+  * ~~[🔨 What are Tools?](8-agents/1-what-are-tools.md)~~
+  * ~~[🤖 Agentic Workflows](8-agents/2-agentic-workflows.md)~~
+  * ~~[🦙 Agentic Llamas](8-agents/3-agentic-llamas.md)~~
+  * ~~[✅ Take Agents to Prod](8-agents/4-take-agents-to-prod.md)~~
 * ~~[On-Prem Practicum](9-on-prem-practicum/README.md)~~
   * ~~[🏠 Deploy LLMs](9-on-prem-practicum/1-deploy-llms.md)~~
   * ~~[🔄 Update Canopy](9-on-prem-practicum/2-update-canopy.md)~~
@@ -60,5 +74,5 @@
   * ~~[👤 User Experience](11-maas/4-user-experience.md)~~
   * ~~[👩‍💼 Admin Configuration](11-maas/5-admin-configuration.md)~~
   * ~~[📊 Usage & Observability](11-maas/6-usage-observability.md)~~
-* [Campus Setup](15-campus-setup/README.md)
-  * [🏫 Cluster Setup](15-campus-setup/1-cluster-setup.md)
+* ~~[Campus Setup](15-campus-setup/README.md)~~
+  * ~~[🏫 Cluster Setup](15-campus-setup/1-cluster-setup.md)~~

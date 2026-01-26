@@ -53,7 +53,7 @@ When it is in running state, open it by clicking its name and use your credentia
 5. Let's clone our Canopy repository that has some Notebooks in it and learn more about Llama Stack!
 
    ```bash
-   git clone https://<USER_NAME>:<PASSWORD>@gitea-gitea.<CLUSTER_DOMAIN>/<USER_NAME>/experiments.git
+   git clone https://github.com/rhoai-genaiops/experiments.git
    ```
 
 6. Open up the notebook called `3-ready-to-scale-101/1-intro-llama-stack.ipynb` and follow the instructions. When you run the first code cell, it will ask you to choose a kernel. Select the first option. That means it will run the code within this workbench locally.
@@ -64,9 +64,8 @@ When it is in running state, open it by clicking its name and use your credentia
 
    ![choose-python-env2.png](./images/choose-python-env2.png)
 
-   And now, feel free to experiment! Read and run the cells in the notebook! When you are done, come back here:)
+   And now, feel free to experiment! Read and run the cells in the notebook! When you are done, move onto the Agents workshop (on the left).
 
    ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjM0ZzFhNjRtemJ1NHNtOTkxYm52b3h3c3pnZ2VvdXBtNjBiZjZzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i68Balzk8Fewg/giphy.gif)
 
 
-Now that we understand why a backend is necessary to communicate with the Llama Stack, let’s implement those changes and introduce a backend into the architecture.
