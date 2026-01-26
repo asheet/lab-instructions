@@ -12,11 +12,11 @@ Milvus is a high-performance, open-source vector database developed by Zilliz. W
 
 2. In the search bar, search for `Milvus` and choose the `Milvus` instance tile.
 
-    ![helm_chart_milvus_1.png](./images/fsibootcamp/helm_chart_milvus_1.png){width=80%}
+    ![helm_chart_milvus_1.png](./images/fsibootcamp/helm_chart_milvus_1.png)
 
     and then press the blue `Create` button.  
 
-    ![helm_chart_milvus_2.png](./images/fsibootcamp/helm_chart_milvus_2.png){width=80%}
+    ![helm_chart_milvus_2.png](./images/fsibootcamp/helm_chart_milvus_2.png)
 
 3. This brings up another configuration screen. We can leave the defaults for this Milvus instance and press the `Create` button to bring up the Milvus script.
 
