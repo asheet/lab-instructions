@@ -1,5 +1,6 @@
-* [Intro](/)
-* [Quick Note about the workshop](0-workshop/0-quick-note.md)
+
+* [About the workshop](0-workshop/0-quick-note.md)
+* [Intro to Instructions](/)
 * [Ready to Scale 101](3-ready-to-scale-101/README.md)
   * [🦙 Llama Stack](3-ready-to-scale-101/1-llama-stack.md)
   * [✨ Into the Workspace](3-ready-to-scale-101/2-into-the-workspace_new.md)
