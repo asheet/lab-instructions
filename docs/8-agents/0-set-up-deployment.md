@@ -4,14 +4,19 @@ Because we have to skip some of the AI501 sections, we will need to take some sh
 
 ## Set up Milvus
 
+Milvus is a high-performance, open-source vector database developed by Zilliz. We'll be using it as a RAG database.
+
 1. Let's quickly deploy a Milvus database instance into our namespace. In the Openshift console, expand `Helm` section from the left menu (if it is not there, refresh the page), click `Releases` and make sure you are on `<USER_NAME>-canopy` project. Then from the top right select `Create Helm Release`.
 
     ![blank_helm_release.png](./images/fsibootcamp/blank_helm_release.png)
 
-2. In the search bar, search for `Milvus` and choose the `Milvus` instance tile and press the blue `Create` button.
+2. In the search bar, search for `Milvus` and choose the `Milvus` instance tile.
 
-    ![helm_chart_milvus_1.png](./images/fsibootcamp/helm_chart_milvus_1.png)
-    ![helm_chart_milvus_2.png](./images/fsibootcamp/helm_chart_milvus_2.png)
+    ![helm_chart_milvus_1.png](./images/fsibootcamp/helm_chart_milvus_1.png){width=80%}
+
+    and then press the blue `Create` button.  
+
+    ![helm_chart_milvus_2.png](./images/fsibootcamp/helm_chart_milvus_2.png){width=80%}
 
 3. This brings up another configuration screen. We can leave the defaults for this Milvus instance and press the `Create` button to bring up the Milvus script.
 
@@ -21,6 +26,7 @@ Because we have to skip some of the AI501 sections, we will need to take some sh
 
     ![helm_chart_milvus_5.png](./images/fsibootcamp/helm_chart_milvus_5.png)
 
+5. We have successfully brought up a Milvus database for RAG. 
 
 ## Deploy Llama Stack
 
@@ -78,6 +84,9 @@ telemetry:
 
 We are updating `eval: enabled: true`, `mcp: enabled: true`, `rag: enabled: true`, and updating `rag: milvus: service: milvus`
 
+## Let's start using these components
+1. After Milvus and Llama stack is up and running, we'll need to set up the Milvus database for using it with RAG.
 
-4. After Milvus and Llama stack is up and running, we'll need to set up the Milvus database for using it with RAG.
-5. Open up the notebook called `5-rag/2-intro-to-RAG.ipynb` and follow the instructions.
+2. Open up the notebook called `5-rag/2-intro-to-RAG.ipynb` and follow the instructions.
+
+3. Once you're done with "Intro to RAG" we can move onto the next section.
